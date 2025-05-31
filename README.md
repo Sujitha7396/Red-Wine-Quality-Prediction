@@ -1,1 +1,2 @@
 # Red-Wine-Quality-Prediction
+This project focuses on predicting the quality of red wine based on various physicochemical properties using machine learning techniques. The dataset used contains features such as acidity, sugar content, pH, and alcohol percentage, which influence wine quality. The objective is to develop a predictive model that accurately classifies the quality of wine on a scale from 0 to 10.
